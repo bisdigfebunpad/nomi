@@ -1,1 +1,5 @@
 # nomi
+
+- Angel
+- Aryo
+- Kareen
